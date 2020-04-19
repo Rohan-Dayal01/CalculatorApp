@@ -1,8 +1,6 @@
 package homework3;
 /**
  * @author Rohan Dayal
- * @ID_Number 112768867
- * @Recitation 02
  */
 
 /**
